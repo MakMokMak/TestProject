@@ -24,4 +24,4 @@ GitHub の利用についてのテスト
 
 表示を確認
 
-[サブフォルダの HTML 文書]("./Folder01/Folder11/subdolder11.html" "")
+[サブフォルダの HTML 文書]("https://github.com/MakMokMak/TestProject/blob/master/Folder01/Folder11/subdolder11.html" "")
