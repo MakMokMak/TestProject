@@ -23,3 +23,5 @@ GitHub の利用についてのテスト
 4. 項目4
 
 表示を確認
+
+[サブフォルダの HTML 文書]("./Folder01/Folder11/subdolder11.html" "")
